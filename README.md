@@ -1,2 +1,15 @@
 # rock-paper-scissor-game
-A simple Rock, Paper, Scissors game built using Java. This project demonstrates core programming concepts like user input handling, conditional logic, and random number generation. Ideal for beginners exploring Java basics, OOP principles, and game development fundamentals.
+A simple implementation of the classic Rock-Paper-Scissors game built with Java.
+The project demonstrates basic programming concepts such as user input handling, conditional logic, and randomization.
+
+✨ Features
+
+Play against the computer with random choices
+
+Clear game rules and outcome display (win/lose/draw)
+
+Beginner-friendly code with comments for easy understanding
+
+Can be extended to include GUI or multiplayer support
+
+
